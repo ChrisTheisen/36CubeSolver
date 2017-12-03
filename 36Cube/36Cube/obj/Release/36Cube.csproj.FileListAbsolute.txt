@@ -1,0 +1,18 @@
+C:\Projects\Code\36Cube\36Cube\bin\Release\36Cube.exe.config
+C:\Projects\Code\36Cube\36Cube\bin\Release\36Cube.exe
+C:\Projects\Code\36Cube\36Cube\bin\Release\36Cube.pdb
+C:\Projects\Code\36Cube\36Cube\obj\Release\36Cube.csprojResolveAssemblyReference.cache
+C:\Projects\Code\36Cube\36Cube\obj\Release\_36Cube.Form1.resources
+C:\Projects\Code\36Cube\36Cube\obj\Release\_36Cube.Properties.Resources.resources
+C:\Projects\Code\36Cube\36Cube\obj\Release\36Cube.csproj.GenerateResource.Cache
+C:\Projects\Code\36Cube\36Cube\obj\Release\36Cube.exe
+C:\Projects\Code\36Cube\36Cube\obj\Release\36Cube.pdb
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\bin\Release\36Cube.exe.config
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\obj\Release\36Cube.exe
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\obj\Release\36Cube.pdb
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\obj\Release\36Cube.csprojResolveAssemblyReference.cache
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\obj\Release\_36Cube.Form1.resources
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\obj\Release\_36Cube.Properties.Resources.resources
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\obj\Release\36Cube.csproj.GenerateResource.Cache
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\bin\Release\36Cube.exe
+C:\Projects\Code\_Test Code\_MISC\36Cube\36Cube\bin\Release\36Cube.pdb

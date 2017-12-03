@@ -1,0 +1,9 @@
+C:\Projects\Code\36Cube\36Cube\bin\Debug\36Cube.exe.config
+C:\Projects\Code\36Cube\36Cube\bin\Debug\36Cube.exe
+C:\Projects\Code\36Cube\36Cube\bin\Debug\36Cube.pdb
+C:\Projects\Code\36Cube\36Cube\obj\Debug\36Cube.csprojResolveAssemblyReference.cache
+C:\Projects\Code\36Cube\36Cube\obj\Debug\_36Cube.Properties.Resources.resources
+C:\Projects\Code\36Cube\36Cube\obj\Debug\36Cube.csproj.GenerateResource.Cache
+C:\Projects\Code\36Cube\36Cube\obj\Debug\36Cube.exe
+C:\Projects\Code\36Cube\36Cube\obj\Debug\36Cube.pdb
+C:\Projects\Code\36Cube\36Cube\obj\Debug\_36Cube.Form1.resources
